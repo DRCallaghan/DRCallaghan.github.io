@@ -16,7 +16,7 @@ Horiseon Digital Marketing is an online consulting firm for web marketing and SE
 
 ## Installation
 
-This website is intended to be run via any web browser, but you should use Chrome or Firefox for best results. Download the whole folder from this repository, then open the index.html file in your browser.
+This website is intended to be run via any web browser, but you should use Chrome or Firefox for best results. Download the whole folder from this repository, then open the index.html file in your browser. For those not wanting to host this website locally, you can use a [live deployed version here](https://drcallaghan.github.io/Horiseon-Digital-Marketing/#social-media-marketing).
 
 ## Usage
 
